@@ -26,4 +26,4 @@ As part of the CodeAlpha Cyber Security Internship, this task involved reviewing
 **College**: MIT-ADT University (SOC)
 
 ## 🔗 LinkedIn Video Post
-[Link to my explanation video](#)
+[[Link to my explanation video](#)](https://www.linkedin.com/posts/harshwardhan-chorghe-9019b4259_cybersecurity-internship-phishing-activity-7348954964196495360-27Ew?utm_source=share&utm_medium=member_ios&rcm=ACoAAD-vlxEBFal6WpMzNn8pKpuvWnRQevJ7xkc)
