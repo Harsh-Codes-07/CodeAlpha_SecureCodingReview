@@ -1,7 +1,7 @@
-# CodeAlpha – Secure Coding Review
+Secure Coding Review
 
 ## 📌 Description
-As part of the CodeAlpha Cyber Security Internship, this task involved reviewing insecure Python code and suggesting secure coding practices.
+As part of the Cyber Security Internship, this task involved reviewing insecure Python code and suggesting secure coding practices.
 
 ## 🔐 Vulnerabilities Found
 - SQL Injection via string formatting
